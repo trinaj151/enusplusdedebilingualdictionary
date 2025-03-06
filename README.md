@@ -1,4 +1,4 @@
-enUS (American English) plus deDE (German Standard German) bilingual dictionary
+  enUS (American English) plus deDE (German Standard German) bilingual dictionary
 ===============================================================================
 
 ### This is a Hunspell dictionary that supports both enUS (American English) and deDE (German Standard German).
